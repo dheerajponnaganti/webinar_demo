@@ -14,8 +14,7 @@ class Solution {
                     a=i; b=j; 
                     c[0] =a;c[1]=b;  
                     break;
-                }
-                
+                }   
             }
             
         }return c;
